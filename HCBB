@@ -5,8 +5,8 @@ local set = {
         HitDist = 14;
         BallEsp = true;
         YOffset = -10;
-        OnlyHitInBox = false;
-        AimWithMouse = false;
+        OnlyHitInBox = true;
+        AimWithMouse = true;
         showBoundsAndPrediction = true;
     }
  
