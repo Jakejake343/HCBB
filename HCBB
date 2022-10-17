@@ -1,5 +1,6 @@
+PLEASE DONT CLAIM AS YOUR OWN
 local set = {
-        AutoAimBat = false;
+        AutoAimBat = true;
         AutoHitBat = true;
         WindupDist = 67;
         HitDist = 14;
